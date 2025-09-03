@@ -82,7 +82,6 @@ lengthInput.addEventListener("input", () => {
   lengthValue.textContent = lengthInput.value;
 });
 
-// Generate initial password
 generatePassword();
 
 generateBtn.addEventListener("click", generatePassword);

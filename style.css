@@ -52,16 +52,13 @@ main {
   float: right;
   margin-left: auto;
   margin-bottom: 1rem;
-  /* font-size: 1.5rem; */
 }
 
 .lenth-control label {
   display: block;
-  /* padding-bottom: 1rem; */
 }
 
 #length {
-  /* margin-top: 0.5rem; */
   width: 100%;
   margin-bottom: 1rem;
   color: #a4ffaf;
@@ -112,14 +109,14 @@ main {
 }
 
 .copied {
-    position: absolute;
-    top: 22px;
-    right: 35px;
-    color: #a4ffaf;
-    display: none;
+  position: absolute;
+  top: 22px;
+  right: 35px;
+  color: #a4ffaf;
+  display: none;
 }
 
-
+/* Track Styling */
 .progress-range {
   -webkit-appearance: none;
   width: 100%;
@@ -141,8 +138,8 @@ main {
 }
 
 .progress-range::-webkit-slider-thumb:hover {
-    background: black;
-    outline: 2px solid green;
+  background: black;
+  outline: 2px solid green;
 }
 
 .progress-range::-moz-range-thumb {
