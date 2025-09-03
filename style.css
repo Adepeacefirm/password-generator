@@ -108,6 +108,13 @@ main {
   border: none;
 }
 
+.generate-btn:hover {
+    background-color: #14131b;
+    color: #a4ffaf;
+    outline: 2px solid #a4ffaf;
+    cursor: pointer;
+}
+
 .copied {
   position: absolute;
   top: 22px;
