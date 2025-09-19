@@ -1,10 +1,10 @@
-@media (min-width: 500px) {
+@media (min-width: 600px) {
     main {
         width: 70%;
     }
 }
 
-@media (min-width: 770px) {
+@media (min-width: 1000px) {
     body{
         display: flex;
         flex-direction: column;
